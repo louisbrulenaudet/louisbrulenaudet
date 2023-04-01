@@ -3,7 +3,8 @@ Specialization in the design of programming interfaces dedicated to Machine Lear
 
 Co-founder of Clover, a company that uses the Sparly tool, first winner of the Défi Étudiants Entrepreuneurs de la Région Grand Est, double winner of the Mindstart call for projects from the Université de Technologie de Troyes, selected by the AI for Tomorrow association for the quality of its technical and economic file, and its involvement in the fight against inequalities. A startup incubated at the Technopôle de l'Aube, specialized in innovation engineering.
 
-Translated with www.DeepL.com/Translator (free version)
+![Twitter Follow](https://img.shields.io/twitter/follow/BruleNaudet?style=social)
+
 
 ## Field of study
 >**Business law**, special obligations, **wealth tax law and corporate tax law**, macroeconomics, microeconomics of behaviors, mathematics and probability, computer science applied to data analysis (`Python 3.10`, `NodeJs`).
