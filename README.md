@@ -14,3 +14,23 @@ Apport d'expertise
 [Twitter](https://twitter.com/louis_brlndt).
 
 [Site personnel](https://louisbrulenaudet.com).
+
+# These are supported funding model platforms
+
+- [Lydia.me](https://lydia-app.com/collect/louisbrulenaudet)
+- [PayPal.me](https://www.paypal.com/paypalme/louis687)
+- [Revolut.me](https://revolut.me/louisbrulenaudet)
+
+## Cryptocurrency addresses (louisbrulenaudet.nft)
+
+- **Bitcoin:** bc1qsremtxm5nuxu7hzdmlhavxufaah3xp2f6zus00
+- **Ethereum:** 0xe6d556ca972a1b12fefcf6899e0a20c63420eade
+- **Litecoin:** ltc1qalvl4nkfaq4lzp7hep4425dpwvxd5wjyfm02lj
+- **Ripple:** rBJtduZRb83uR6BKiri65GszDpDdgVVpR7
+- **Bitcoin cash:** bitcoincash:qpd2yfjzqe8ag6j5h2d9wyc228fu08lkqudfyq77yh
+- **Ethereum Classic:** 0xE6d556Ca972a1b12FeFCF6899E0A20C63420eadE
+- **Solana:** BXALDa9khMUzEY21XfCPzZWQhnty1EsavqoPTDx7p5W6
+- **Stellar Lumens:** GC2LGFOXPELXSUTZ3C4RQ57VMIRR3YX5EA235FQ4AE2WGMIUC3JBAHMV
+- **Dogecoin:** DBqrBKSebBpaUFbyTSnQvGj8idX9Zx8JTD
+- **Matic:** 0xe6d556ca972a1b12fefcf6899e0a20c63420eade
+
