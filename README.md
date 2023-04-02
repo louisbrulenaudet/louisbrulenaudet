@@ -1,17 +1,16 @@
 # Louis Brulé Naudet
-Specialization in the design of programming interfaces dedicated to Machine Learning, **web design (`HTML 5`, `CSS 3`, `JavaScript`)**, SEO optimization and user experience improvement. Research in business law and taxation on the issue of the appropriation of cryptocurrencies by the french legal system.
+Specialization in the design of programming interfaces dedicated to Machine Learning, **web design (`HTML 5`, `CSS 3`, `JavaScript`, `NodeJS`, `Express.js`, `Mongo DB`)**, SEO optimization and user experience improvement. Research in business law and taxation.
 
-Co-founder of Clover, a company that uses the Sparly tool, first winner of the Défi Étudiants Entrepreuneurs de la Région Grand Est, double winner of the Mindstart call for projects from the Université de Technologie de Troyes, selected by the AI for Tomorrow association for the quality of its technical and economic file, and its involvement in the fight against inequalities. A startup incubated at the Technopôle de l'Aube, specialized in innovation engineering.
+Ex first winner of the Défi Étudiants Entrepreuneurs de la Région Grand Est, double winner of the Mindstart call for projects from the Université de Technologie de Troyes 🇫🇷, selected by the AI for Tomorrow. Co-founder of a small project incubated at the Technopôle de l'Aube, specialized in innovation engineering.
 
 [Curriculum vitae](https://louisbrulenaudet.com/ressources/Louis-Brule-Naudet.pdf)
 
-
 ## Field of study
->**Business law**, special obligations, **wealth tax law and corporate tax law**, macroeconomics, microeconomics of behaviors, mathematics and probability, computer science applied to data analysis (`Python 3.10`, `NodeJs`).
+>**Business law**, **business taxation**, special obligations, macroeconomics, microeconomics of behaviors, mathematics and probability, computer science applied to data analysis (`Python 3.10`, `NodeJs`), IT applied to taxation.
 
 ## Contribution of expertise 
 Apport d'expertise
->Visual and editorial communication, branding, legal structuring, **acquisition strategy (Go to Market)**, **website design**, systemic representation of the origin of added value.
+>Visual and editorial communication, branding, legal structuring, **acquisition strategy (Go to Market)**, **website design**, systemic representation of the origin of added value, computer security, SEO.
 
 - [Linkedin](https://www.linkedin.com/in/louisbrulenaudet/).
 - [Twitter](https://twitter.com/louis_brlndt).
