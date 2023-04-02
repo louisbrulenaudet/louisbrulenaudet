@@ -9,7 +9,6 @@ Ex first winner of the Défi Étudiants Entrepreuneurs de la Région Grand Est, 
 >**Business law**, **business taxation**, special obligations, macroeconomics, microeconomics of behaviors, mathematics and probability, computer science applied to data analysis (`Python 3.10`, `NodeJs`), IT applied to taxation.
 
 ## Contribution of expertise 
-Apport d'expertise
 >Visual and editorial communication, branding, legal structuring, **acquisition strategy (Go to Market)**, **website design**, systemic representation of the origin of added value, computer security, SEO.
 
 - [Linkedin](https://www.linkedin.com/in/louisbrulenaudet/).
