@@ -5,7 +5,7 @@ Ex first winner of the Défi Étudiants Entrepreuneurs de la Région Grand Est, 
 
 [Curriculum vitae](https://louisbrulenaudet.com/ressources/Louis-Brule-Naudet.pdf)
 
-## Field of study
+## Fields of study
 >**Business law**, **business taxation**, special obligations, macroeconomics, microeconomics of behaviors, mathematics and probability, computer science applied to data analysis (`Python 3.10`, `NodeJs`), IT applied to taxation.
 
 ## Contribution of expertise 
