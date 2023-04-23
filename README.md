@@ -12,7 +12,7 @@ Ex first winner of the Défi Étudiants Entrepreuneurs de la Région Grand Est, 
 >Visual and editorial communication, branding, legal structuring, **acquisition strategy (Go to Market)**, **website design**, systemic representation of the origin of added value, computer security, SEO.
 
 - [Linkedin](https://www.linkedin.com/in/louisbrulenaudet/).
-- [Twitter](https://twitter.com/louis_brlndt).
+- [Twitter](https://twitter.com/BruleNaudet).
 
 [Personal website](https://louisbrulenaudet.com).
 
