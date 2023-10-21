@@ -3,8 +3,6 @@
 </div>
 
 # Louis Brulé Naudet
-Specialization in the design of programming interfaces dedicated to Machine Learning, , SEO optimization and user experience improvement. Research in business law and taxation.
-
 Specialization in the design of programming interfaces dedicated to **Machine Learning**, computer science applied to **taxation**, the design of iterative architectures for the production of complex documents, with a focus on the mathematics of **similarity search**, multimodal pre-processing, similarity by compound indices and Voronoi diagrams with FAISS (HNSW, IVF. . . ) or word embedding , **web design (`HTML 5`, `CSS 3`, `JavaScript`, `NodeJS`, `Express.js`, `Mongo DB`)**.
 
 Graduate of the Master 2 in **corporate taxation** (course 221), research path in law, and holder of a Master 1 in business law and a double degree in Law - Economics / Management from **Université Dauphine-PSL**.
