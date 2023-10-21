@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+</div>
+
 # Louis Brulé Naudet
 Specialization in the design of programming interfaces dedicated to Machine Learning, **web design (`HTML 5`, `CSS 3`, `JavaScript`, `NodeJS`, `Express.js`, `Mongo DB`)**, SEO optimization and user experience improvement. Research in business law and taxation.
 
