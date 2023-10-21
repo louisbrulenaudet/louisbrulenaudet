@@ -8,9 +8,6 @@ Ex first winner of the Défi Étudiants Entrepreuneurs de la Région Grand Est, 
 ## Fields of study
 >**Business law**, **business taxation**, special obligations, macroeconomics, microeconomics of behaviors, mathematics and probability, computer science applied to data analysis (`Python 3.10`, `NodeJs`), IT applied to taxation.
 
-## Contribution of expertise 
->Visual and editorial communication, branding, legal structuring, **acquisition strategy (Go to Market)**, **website design**, systemic representation of the origin of added value, computer security, SEO.
-
 - [Linkedin](https://www.linkedin.com/in/louisbrulenaudet/).
 - [Twitter](https://twitter.com/BruleNaudet).
 
@@ -27,6 +24,8 @@ Ex first winner of the Défi Étudiants Entrepreuneurs de la Région Grand Est, 
 - [Integrating statistical thinking to the reform of contract law: towards a leximetric approach of the French legal system](https://hal.science/hal-03506558v1), HAL (Id : hal-03506558), 2022
 - [Recherche appliquée sur l’apport de LaTeX en technique contractuelle systématique pour le droit des obligations](https://hal-univ-paris-dauphine.archives-ouvertes.fr/hal-03559356), HAL (Id : hal-03559356), 2022
 - [De l'émergence d'une scientificité du droit](https://hal.science/hal-03628279), HAL (Id : hal-03628279), 2022
+
+![svg](./profile-3d-contrib/profile-season-animate.svg)
 
 # Socials
 - [Medium](http://medium.com/@louisbrulenaudet)
