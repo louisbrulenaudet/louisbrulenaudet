@@ -7,6 +7,8 @@ Specialization in the design of programming interfaces dedicated to **Machine Le
 
 Graduate of the Master 2 in **corporate taxation** (course 221), research path in law, and holder of a Master 1 in business law and a double degree in Law - Economics / Management from **Université Dauphine-PSL**.
 
+Covered by the **Microsoft for Startups Hub program**.
+
 Ex first winner of the Défi Étudiants Entrepreuneurs de la Région Grand Est, double winner of the Mindstart call for projects from the Université de Technologie de Troyes 🇫🇷, selected by the AI for Tomorrow. Co-founder of a small project incubated at the Technopôle de l'Aube, specialized in innovation engineering.
 
 [Curriculum vitae](https://louisbrulenaudet.com/ressources/Louis-Brule-Naudet.pdf)
