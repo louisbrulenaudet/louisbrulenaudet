@@ -33,8 +33,6 @@ Ex first winner of the Défi Étudiants Entrepreuneurs de la Région Grand Est, 
 - [Recherche appliquée sur l’apport de LaTeX en technique contractuelle systématique pour le droit des obligations](https://hal-univ-paris-dauphine.archives-ouvertes.fr/hal-03559356), HAL (Id : hal-03559356), 2022
 - [De l'émergence d'une scientificité du droit](https://hal.science/hal-03628279), HAL (Id : hal-03628279), 2022
 
-![svg](./profile-3d-contrib/profile-season-animate.svg)
-
 # Socials
 - [Medium](http://medium.com/@louisbrulenaudet)
 - [Twitch](https://www.twitch.tv/louisbrulenaudet)
