@@ -19,6 +19,8 @@ Ex first winner of the Défi Étudiants Entrepreuneurs de la Région Grand Est, 
 - [Linkedin](https://www.linkedin.com/in/louisbrulenaudet/).
 - [Twitter](https://twitter.com/BruleNaudet).
 
+<a href="https://gitroll.io/profile/uVpFMQOm8FEXoSPhKf47wlls8Xd23" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uVpFMQOm8FEXoSPhKf47wlls8Xd23?theme=light" alt="GitRoll Profile Badge"/></a>
+
 [Personal website](https://louisbrulenaudet.com).
 
 ## Publications
